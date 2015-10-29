@@ -1,0 +1,43 @@
+{
+  "name": "kudos",
+  "version": "1.0.0",
+  "authors": "Yusuke SHIBATA <shibata@fata.io>",
+  "description": "kudos like as svbtle",
+  "main": "./lib/kudos.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer-loader": "^2.0.0",
+    "bean": "^1.0.15",
+    "css-loader": "^0.15.2",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "jade": "^1.11.0",
+    "jade-loader": "^0.7.1",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "less-plugin-autoprefix": "^1.4.2",
+    "less-plugin-clean-css": "^1.5.0",
+    "qwery": "^4.0.0",
+    "style-loader": "^0.12.3",
+    "webpack-stream": "^2.0.0"
+  },
+  "keywords": [
+    "kudos",
+    "svbtle",
+    "browser"
+  ],
+  "homepage": "https://github.com/panefordope/kudos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panefordope/kudos.git"
+  },
+  "scripts": {},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panefordope/kudos/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "author": "Yusuke SHIBATA"
+}

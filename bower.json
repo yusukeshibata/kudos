@@ -1,0 +1,27 @@
+{
+  "name": "kudos",
+  "version": "1.0.0",
+  "homepage": "https://github.com/panefordope/kudos",
+  "authors": [
+    "Yusuke SHIBATA <shibata@fata.io>"
+  ],
+  "description": "kudos like as svbtle",
+  "main": "lib/kudos.js",
+  "moduleType": [
+    "node",
+    "amd"
+  ],
+  "keywords": [
+    "kudos",
+    "svbtle",
+    "browser"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
