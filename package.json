@@ -26,15 +26,15 @@
     "svbtle",
     "browser"
   ],
-  "homepage": "https://github.com/panefordope/kudos",
+  "homepage": "https://github.com/yusukeshibata/kudos",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/panefordope/kudos.git"
+    "url": "git+https://github.com/yusukeshibata/kudos.git"
   },
   "scripts": {},
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/panefordope/kudos/issues"
+    "url": "https://github.com/yusukeshibata/kudos/issues"
   },
   "directories": {
     "test": "test"
