@@ -4,7 +4,7 @@ kudos
 ![animation](/kudos.gif?raw=true)
 
 Install:
-`npm install git@github.com:yusukeshibata/kudos.git`
+`npm install yusukeshibata/kudos`
 
 Kudos implementation like [svbtle.com](https://svbtle.com/).
 
